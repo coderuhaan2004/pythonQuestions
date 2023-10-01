@@ -1,0 +1,42 @@
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+39199352727.540085
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+Case 1: Sold all stocks at local max:  39199352727.540085
+Case 2: Sold only one stock at local max:  530963.3599999809
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+Case 1: Sold all stocks at local max:  39199352727.540085
+Case 2: Sold only one stock at local max:  530963.3599999809
+Case 3: Sold all stocks at global max:  -10058106.899999995
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+Case 1: Sold all stocks at local max:  39199352727.540085
+Case 2: Sold only one stock at local max:  530963.3599999809
+Case 3: Sold all stocks at global max:  48445250.32000001
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+Case 1: Sold all stocks at local max:  39199352727.540085
+Case 2: Sold only one stock at local max:  530963.3599999809
+Case 3: Sold all stocks at global max:  48445250.32000001
+Case 4: Sold one stock at price greater than 10000:  -22612422.619999994
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+Case 1: Sold all stocks at local max:  39199352727.540085
+Case 2: Sold only one stock at local max:  530963.3599999809
+Case 3: Sold all stocks at global max:  48445250.32000001
+Case 4: Sold one stock at price greater than 10000:  60524642.93999995
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+Case 1: Sold all stocks at local max:  39199352727.540085
+Case 2: Sold only one stock at local max:  530963.3599999809
+Case 3: Sold all stocks at global max:  48445250.32000001
+Case 4: Sold one stock at price greater than 10000:  32824812.350000046
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ vim Q43.py
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ python3 Q43.py
+Case 1: Sold all stocks at local max:  39199352727.540085
+Case 2: Sold only one stock at local max:  530963.3599999809
+Case 3: Sold all stocks at global max:  48445250.32000001
+Case 4: Sold one stock at price greater than 20000:  32824812.350000046
+ruhaan@ruhaan-HP-Laptop-14s-dr1xxx:~/Desktop/python$ 
